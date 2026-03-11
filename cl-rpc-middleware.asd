@@ -5,7 +5,7 @@
 
 (asdf:defsystem #:cl-rpc-middleware
   :description "JSON-RPC middleware pipeline for request/response transformation"
-  :author "CLPIC Contributors"
+  :author "Parkian Company LLC"
   :license "BSD-3-Clause"
   :version "1.0.0"
   :serial t
