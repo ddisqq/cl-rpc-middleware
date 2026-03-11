@@ -1,7 +1,7 @@
 ;;;; cl-rpc-middleware.asd - JSON-RPC middleware pipeline system
 ;;;;
 ;;;; BSD-3-Clause License
-;;;; Copyright (c) 2024, CLPIC Contributors
+;;;; Copyright (c) 2024, Parkian Company LLC
 
 (asdf:defsystem #:cl-rpc-middleware
   :description "JSON-RPC middleware pipeline for request/response transformation"
